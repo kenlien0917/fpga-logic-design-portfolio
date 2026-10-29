@@ -1,0 +1,27 @@
+build/
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+*.bit
+*.dcp
+*.str
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+__pycache__/
+.DS_Store
+
+# Restored golden data; compressed originals are tracked
+/projects/snake/tb/body_map_tb_i
+/projects/snake/tb/body_map_tb_o
+/projects/snake/tb/ctrl_tb_i
+/projects/snake/tb/ctrl_tb_o
+/projects/snake/tb/dir_decider_tb_i
+/projects/snake/tb/dir_decider_tb_o
+/projects/snake/tb/food_tb_i
+/projects/snake/tb/food_tb_o

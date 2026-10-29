@@ -1,0 +1,312 @@
+[
+  {
+    "source": "mini_Project1/project/project.srcs/sources_1/imports/src/debounce.v",
+    "destination": "projects/vending-machine/rtl/debounce.v",
+    "sha256_original": "2438210d6b97fd811d20160e9e194782c793dc2f316f8e049208528c5a57538f",
+    "sha256_published": "2438210d6b97fd811d20160e9e194782c793dc2f316f8e049208528c5a57538f"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sources_1/imports/src/display.v",
+    "destination": "projects/vending-machine/rtl/display.v",
+    "sha256_original": "3ec0442324c445d2d16617ca199994d43d694ecd2327c77bd6b50648449f782a",
+    "sha256_published": "3ec0442324c445d2d16617ca199994d43d694ecd2327c77bd6b50648449f782a"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sources_1/imports/src/top.v",
+    "destination": "projects/vending-machine/rtl/top.v",
+    "sha256_original": "370b833bf20942f77aa4b6bfc492a6a936393871f722b02e66ac9ce22821d60e",
+    "sha256_published": "370b833bf20942f77aa4b6bfc492a6a936393871f722b02e66ac9ce22821d60e"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sources_1/imports/src/vending_machine.v",
+    "destination": "projects/vending-machine/rtl/vending_machine.v",
+    "sha256_original": "68940b8163aaba8f3edd15fe9184cf3d19dda5553d9f4fa3094feb2be27cb1d1",
+    "sha256_published": "68940b8163aaba8f3edd15fe9184cf3d19dda5553d9f4fa3094feb2be27cb1d1"
+  },
+  {
+    "source": "mini_Project2/project_1/project_1.srcs/sources_1/imports/src/top.v",
+    "destination": "projects/whack-a-mole/rtl/top.v",
+    "sha256_original": "cc455155f601045fae57e3c2da26a325379a6106edef77b4741db999691c1a1b",
+    "sha256_published": "cc455155f601045fae57e3c2da26a325379a6106edef77b4741db999691c1a1b"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/Body2display.sv",
+    "destination": "projects/snake/rtl/Body2display.sv",
+    "sha256_original": "5efb0c84ec9a701059f809ebe5e9884bfc8a291f4a975f5bf3489483741b5402",
+    "sha256_published": "4c24a9be17bcd8ac198460402b08b02d0e507d5fd4cdb366569bc2da885f296f"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/body_map.v",
+    "destination": "projects/snake/rtl/body_map.v",
+    "sha256_original": "5d600d0d5e4c6a32df44482005bf3abb783936429d84345649e21fda2ec2dfb8",
+    "sha256_published": "5d600d0d5e4c6a32df44482005bf3abb783936429d84345649e21fda2ec2dfb8"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/controller.v",
+    "destination": "projects/snake/rtl/controller.v",
+    "sha256_original": "b1611257b3946af0cb937ce0229eda0fe443c2ec4c1b9750fb97c537078d20f2",
+    "sha256_published": "b1611257b3946af0cb937ce0229eda0fe443c2ec4c1b9750fb97c537078d20f2"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/dir_decider.v",
+    "destination": "projects/snake/rtl/dir_decider.v",
+    "sha256_original": "655683c37c20bb367ec55a877c7bd623b98093638104ad72d27b0b207e1ba058",
+    "sha256_published": "655683c37c20bb367ec55a877c7bd623b98093638104ad72d27b0b207e1ba058"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/food.v",
+    "destination": "projects/snake/rtl/food.v",
+    "sha256_original": "4bf66e04de1a9c7a8201bbb9ba4fa01dcd936a36635c6777313fe057e262fc6d",
+    "sha256_published": "4bf66e04de1a9c7a8201bbb9ba4fa01dcd936a36635c6777313fe057e262fc6d"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/freq_divider.v",
+    "destination": "projects/snake/rtl/freq_divider.v",
+    "sha256_original": "a99b2299b3d0da2de1e49a2432a88ec0df666ce7cfc1a368c08c67b77a4cd12a",
+    "sha256_published": "a99b2299b3d0da2de1e49a2432a88ec0df666ce7cfc1a368c08c67b77a4cd12a"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/random_generator.v",
+    "destination": "projects/snake/rtl/random_generator.v",
+    "sha256_original": "f57051b547ee15f690c44067be08e764be61f57b3b1f9cb7b9cfc719c92d8ae0",
+    "sha256_published": "f57051b547ee15f690c44067be08e764be61f57b3b1f9cb7b9cfc719c92d8ae0"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/snake_top.v",
+    "destination": "projects/snake/rtl/snake_top.v",
+    "sha256_original": "c3342c2031d2ad54957ae79e6bff0efc3ec047b09aff485f2e26b01b488df94e",
+    "sha256_published": "c3342c2031d2ad54957ae79e6bff0efc3ec047b09aff485f2e26b01b488df94e"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sources_1/imports/snake_main/top.v",
+    "destination": "projects/snake/rtl/top.v",
+    "sha256_original": "3b0795c0de612a0377e55b8dc3777fe92819290ed7ca53fa1bf4903f0bd05b47",
+    "sha256_published": "3b0795c0de612a0377e55b8dc3777fe92819290ed7ca53fa1bf4903f0bd05b47"
+  },
+  {
+    "source": "lab7/project.srcs/sources_1/new/marquee.v",
+    "destination": "labs/07-led-marquee/rtl/marquee.v",
+    "sha256_original": "0e7b5037310b5a50165f1505ed5d2aa1e1adb6320fd6545a46fa2bf3008e45da",
+    "sha256_published": "0e7b5037310b5a50165f1505ed5d2aa1e1adb6320fd6545a46fa2bf3008e45da"
+  },
+  {
+    "source": "lab8/project_1.srcs/sources_1/new/Rainbow_Breathing_LED.v",
+    "destination": "labs/08-rgb-breathing/rtl/Rainbow_Breathing_LED.v",
+    "sha256_original": "c85f083c905fd6006edea3acdceb53f4cc172bc9c423fe2cab0993fe55ccd229",
+    "sha256_published": "c85f083c905fd6006edea3acdceb53f4cc172bc9c423fe2cab0993fe55ccd229"
+  },
+  {
+    "source": "lab9/project.srcs/sources_1/new/BTN_DEB.v",
+    "destination": "labs/09-button-counter/rtl/BTN_DEB.v",
+    "sha256_original": "dce13d75aa206486bfbd1df3f6fa061da7c48d5ae7c5225a5a146f2b8ceee52f",
+    "sha256_published": "dce13d75aa206486bfbd1df3f6fa061da7c48d5ae7c5225a5a146f2b8ceee52f"
+  },
+  {
+    "source": "lab9/project.srcs/sources_1/new/MC.v",
+    "destination": "labs/09-button-counter/rtl/MC.v",
+    "sha256_original": "965c3f1cc844e6c0215b37cd012a8846d1d47bf9a23a722ad7c888cfa24c83ce",
+    "sha256_published": "965c3f1cc844e6c0215b37cd012a8846d1d47bf9a23a722ad7c888cfa24c83ce"
+  },
+  {
+    "source": "lab9/project.srcs/sources_1/new/MC_TOP.v",
+    "destination": "labs/09-button-counter/rtl/MC_TOP.v",
+    "sha256_original": "d5b4f37f499b8cec9a146ad2cedefde6b2945e3a12a0769201e6a681da3d75a9",
+    "sha256_published": "d5b4f37f499b8cec9a146ad2cedefde6b2945e3a12a0769201e6a681da3d75a9"
+  },
+  {
+    "source": "lab9/project.srcs/sources_1/new/Pulse_GEN.v",
+    "destination": "labs/09-button-counter/rtl/Pulse_GEN.v",
+    "sha256_original": "0e0f1d00b092b1ed20fcd93d259590e17283c3db4f4f138dcd029170284b22c8",
+    "sha256_published": "0e0f1d00b092b1ed20fcd93d259590e17283c3db4f4f138dcd029170284b22c8"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/constrs_1/imports/constrant/MiniProject1.xdc",
+    "destination": "projects/vending-machine/constraints/board.xdc",
+    "sha256_original": "e7d35dd3e1789bd7e92f68a584e6eb0fa1473568c238b5e7ad0e0cf90c0b0031",
+    "sha256_published": "e7d35dd3e1789bd7e92f68a584e6eb0fa1473568c238b5e7ad0e0cf90c0b0031"
+  },
+  {
+    "source": "mini_Project2/project_1/project_1.srcs/constrs_1/imports/project_1/MiniProject2.xdc",
+    "destination": "projects/whack-a-mole/constraints/board.xdc",
+    "sha256_original": "728e8128f12345116fb02cac9261204fd21ca472024c74871ee0446172bf932c",
+    "sha256_published": "728e8128f12345116fb02cac9261204fd21ca472024c74871ee0446172bf932c"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/constrs_1/imports/project/PYNQZ2.xdc",
+    "destination": "projects/snake/constraints/board.xdc",
+    "sha256_original": "f8843aa607b7f89d9d36e688bf6ace710f9181b6707731848ca1d84dce7bd560",
+    "sha256_published": "f8843aa607b7f89d9d36e688bf6ace710f9181b6707731848ca1d84dce7bd560"
+  },
+  {
+    "source": "lab7/project.srcs/constrs_1/imports/lab7/PYNQ-Z2 v1.0.xdc",
+    "destination": "labs/07-led-marquee/constraints/board.xdc",
+    "sha256_original": "d589d7c5d4e4b5604ce91b4efe6680e9626fce959cec04ca570d1cc60cda18ec",
+    "sha256_published": "d589d7c5d4e4b5604ce91b4efe6680e9626fce959cec04ca570d1cc60cda18ec"
+  },
+  {
+    "source": "lab8/project_1.srcs/constrs_1/imports/lab8/PYNQ-Z2 v1.0.xdc",
+    "destination": "labs/08-rgb-breathing/constraints/board.xdc",
+    "sha256_original": "1999107826892f2602aa0832fa8bceafe237dd9bb94912fe6269dabafd761622",
+    "sha256_published": "1999107826892f2602aa0832fa8bceafe237dd9bb94912fe6269dabafd761622"
+  },
+  {
+    "source": "lab9/project.srcs/constrs_1/imports/lab9/PYNQ-Z2 v1.0.xdc",
+    "destination": "labs/09-button-counter/constraints/board.xdc",
+    "sha256_original": "147a087ba969699f954c865497341431bcdf1082f9a906d3f7fba9cdccdfda32",
+    "sha256_published": "147a087ba969699f954c865497341431bcdf1082f9a906d3f7fba9cdccdfda32"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sim_1/imports/sim/data_coin_case1.data",
+    "destination": "projects/vending-machine/tb/data_coin_case1.data",
+    "sha256_original": "b01bfa0f3a8750077a0b3c94a4a151c84403daff1bbb5cf1dfb5aed18d7a1349",
+    "sha256_published": "b01bfa0f3a8750077a0b3c94a4a151c84403daff1bbb5cf1dfb5aed18d7a1349"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sim_1/imports/sim/data_coin_case2.data",
+    "destination": "projects/vending-machine/tb/data_coin_case2.data",
+    "sha256_original": "e44494fbe233cea17aa5439ab48e148f9569791080db9242dd43965986927a6a",
+    "sha256_published": "e44494fbe233cea17aa5439ab48e148f9569791080db9242dd43965986927a6a"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sim_1/imports/sim/data_drink_case1.data",
+    "destination": "projects/vending-machine/tb/data_drink_case1.data",
+    "sha256_original": "afb9d5276116d0422167cc9a54c8442a5fd8ad8ecfd3e6a403e0b0c62803b20f",
+    "sha256_published": "afb9d5276116d0422167cc9a54c8442a5fd8ad8ecfd3e6a403e0b0c62803b20f"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sim_1/imports/sim/data_drink_case2.data",
+    "destination": "projects/vending-machine/tb/data_drink_case2.data",
+    "sha256_original": "5893cfacb1c9ae4cc89be525002fed87f79d05e971e31007f501ed2639b2065a",
+    "sha256_published": "5893cfacb1c9ae4cc89be525002fed87f79d05e971e31007f501ed2639b2065a"
+  },
+  {
+    "source": "mini_Project1/project/project.srcs/sim_1/imports/sim/top_tb.v",
+    "destination": "projects/vending-machine/tb/top_tb.v",
+    "sha256_original": "3d7f08ac00b166efcf4482282ecd44cecc935eb9e1cbe41fbf9cbd3208266198",
+    "sha256_published": "3d7f08ac00b166efcf4482282ecd44cecc935eb9e1cbe41fbf9cbd3208266198"
+  },
+  {
+    "source": "mini_Project2/project_1/sim/top_tb.v",
+    "destination": "projects/whack-a-mole/tb/top_tb.v",
+    "sha256_original": "73eb61d023f0ea059561f3d9330c6658764e9f28f62860883c1508d06f6ca7dc",
+    "sha256_published": "73eb61d023f0ea059561f3d9330c6658764e9f28f62860883c1508d06f6ca7dc"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/body_map_tb.v",
+    "destination": "projects/snake/tb/body_map_tb.v",
+    "sha256_original": "e44d840ed19564fbe6d7a356744d5217b7b08fe4cf019d0a0e53554a33c686ea",
+    "sha256_published": "e44d840ed19564fbe6d7a356744d5217b7b08fe4cf019d0a0e53554a33c686ea"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/body_map_tb_i",
+    "destination": "projects/snake/tb/body_map_tb_i.gz",
+    "sha256_original": "3666458013edc411a75f55b5bcbb3651fb7dfa4b7e2a049a378e1e3834980bee",
+    "sha256_published": "8eb43649de0cbc522514b24b46db71021d47c15c95dda3ec88c22da4ef4ff62e",
+    "restore_path": "projects/snake/tb/body_map_tb_i",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/body_map_tb_o",
+    "destination": "projects/snake/tb/body_map_tb_o.gz",
+    "sha256_original": "165d6271f1cb4f7a127e504269c6874d161cb327104b543642b28fc6a42fb645",
+    "sha256_published": "7c8e183ec4476f00f3aa74e30074313224bff577d6bdcab60215fe5b20681d51",
+    "restore_path": "projects/snake/tb/body_map_tb_o",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/controller_tb.v",
+    "destination": "projects/snake/tb/controller_tb.v",
+    "sha256_original": "c1c2f653aa816240ea95a9f10ff5931960d2f07c353fa4d8ed41a941c9a6ea48",
+    "sha256_published": "c1c2f653aa816240ea95a9f10ff5931960d2f07c353fa4d8ed41a941c9a6ea48"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/ctrl_tb_i",
+    "destination": "projects/snake/tb/ctrl_tb_i.gz",
+    "sha256_original": "bfe2f62e60bdc7d3325329c7770e3a2a5e279cb0cd59e10a26322390eb1cf686",
+    "sha256_published": "c9f517d517e15c90d109bedab28b150a8ae9841f14a8b39166cb7912e4653e08",
+    "restore_path": "projects/snake/tb/ctrl_tb_i",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/ctrl_tb_o",
+    "destination": "projects/snake/tb/ctrl_tb_o.gz",
+    "sha256_original": "a6eea6698f6ec429535e03f040865621d42226bb157243eade4d5082852cd9ba",
+    "sha256_published": "9f6e8b2c06bb653ebe678bdc2a8a16233a285738fdceb6f6f1f44452e1a76638",
+    "restore_path": "projects/snake/tb/ctrl_tb_o",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/dir_decider_tb.v",
+    "destination": "projects/snake/tb/dir_decider_tb.v",
+    "sha256_original": "8b7ade9945e6b49cbdc19553a96d5e6492d49dd02c33484f1a8b43e6760277f9",
+    "sha256_published": "8b7ade9945e6b49cbdc19553a96d5e6492d49dd02c33484f1a8b43e6760277f9"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/dir_decider_tb_i",
+    "destination": "projects/snake/tb/dir_decider_tb_i.gz",
+    "sha256_original": "95d9a16a963342a6c37bac44b13b5c342c92b47a7fd1c0fdb85f76ddda7f46b3",
+    "sha256_published": "038c031d797736f3535f2533845d99270e28198e3e2f21f701c5c2271c8752a9",
+    "restore_path": "projects/snake/tb/dir_decider_tb_i",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/dir_decider_tb_o",
+    "destination": "projects/snake/tb/dir_decider_tb_o.gz",
+    "sha256_original": "af34b5e5a52d0e6b65376aaa984334e761c7ed2f03181e309d5d768659a68889",
+    "sha256_published": "8a9aa2bf32332545e374c8f80db0c47b5d7cde387cd0015251f30898627ec349",
+    "restore_path": "projects/snake/tb/dir_decider_tb_o",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/food_tb.v",
+    "destination": "projects/snake/tb/food_tb.v",
+    "sha256_original": "2f768c1417d58b30aca6ab987e34cf8e3c4d3f0bc9347ac4b595f9938a0ec332",
+    "sha256_published": "2f768c1417d58b30aca6ab987e34cf8e3c4d3f0bc9347ac4b595f9938a0ec332"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/food_tb_i",
+    "destination": "projects/snake/tb/food_tb_i.gz",
+    "sha256_original": "b98e105781579b8152e2c5d5e0f9efed5568bf83f46f602147c1b380c6f42413",
+    "sha256_published": "722c9d5a9b68441852380ec88045af34970ef1019082afad77f09d94e1708c19",
+    "restore_path": "projects/snake/tb/food_tb_i",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/food_tb_o",
+    "destination": "projects/snake/tb/food_tb_o.gz",
+    "sha256_original": "9cc8b45c0c640d5d1ff45933081690adc66326abc19458ef9600b03860d45330",
+    "sha256_published": "c7736ceb733f618904a5ccf35536e979a13119ac8e1045a90fe1ba5b77f63f55",
+    "restore_path": "projects/snake/tb/food_tb_o",
+    "compression": "gzip"
+  },
+  {
+    "source": "mini_Project3/project/project.srcs/sim_1/imports/tb/Snake_tb.v",
+    "destination": "projects/snake/tb/Snake_tb.v",
+    "sha256_original": "17a460b8014243d0d0abdf5db2de98473c9b6f44248875da01e588bbc416dc12",
+    "sha256_published": "17a460b8014243d0d0abdf5db2de98473c9b6f44248875da01e588bbc416dc12"
+  },
+  {
+    "source": "lab9/project.srcs/sources_1/new/tb.v",
+    "destination": "labs/09-button-counter/tb/tb.v",
+    "sha256_original": "b7c4c1de008dec179459c3569b3cfa1827dcb8f364db740e73acad8c13164605",
+    "sha256_published": "b7c4c1de008dec179459c3569b3cfa1827dcb8f364db740e73acad8c13164605"
+  },
+  {
+    "source": "lab6/project_1.srcs/sources_1/imports/Lab6/practice1/HA.v",
+    "destination": "labs/06-ripple-carry-adder/rtl/HA.v",
+    "sha256_original": "025f428d6e33679e870de213333aa607627d6bdfda7d97f2063693c092c16d43",
+    "sha256_published": "025f428d6e33679e870de213333aa607627d6bdfda7d97f2063693c092c16d43"
+  },
+  {
+    "source": "lab6/project_1.srcs/sources_1/imports/Lab6/practice1/FA.v",
+    "destination": "labs/06-ripple-carry-adder/rtl/FA.v",
+    "sha256_original": "2a37963f984288c930e2d40c4c10193e813b54f3095cb9518a75ef3a8410dd8a",
+    "sha256_published": "2a37963f984288c930e2d40c4c10193e813b54f3095cb9518a75ef3a8410dd8a"
+  },
+  {
+    "source": "lab6/project_1.srcs/sources_1/imports/Lab6/practice1/RCA_4.v",
+    "destination": "labs/06-ripple-carry-adder/rtl/RCA_4.v",
+    "sha256_original": "b0059bf22f00fed21206537a8c97003868a159f045113ac1c8e19c201b5bb51a",
+    "sha256_published": "b0059bf22f00fed21206537a8c97003868a159f045113ac1c8e19c201b5bb51a"
+  }
+]

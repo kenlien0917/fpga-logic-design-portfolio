@@ -1,0 +1,48 @@
+{
+  "tool": "pyslang 12.1.0",
+  "mode": "single compilation unit; SystemVerilog; 1ns/1ps default timescale",
+  "results": [
+    {
+      "design": "labs/06-ripple-carry-adder",
+      "errors": 0,
+      "diagnostics": 3,
+      "report": "labs\\06-ripple-carry-adder\\rtl\\RCA_4.v:40:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\nin file included from labs\\06-ripple-carry-adder\\rtl\\RCA_4.v:1:\nlabs\\06-ripple-carry-adder\\rtl\\FA.v:24:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\nin file included from labs\\06-ripple-carry-adder\\rtl\\RCA_4.v:1:\nin file included from labs\\06-ripple-carry-adder\\rtl\\FA.v:1:\nlabs\\06-ripple-carry-adder\\rtl\\HA.v:7:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\n"
+    },
+    {
+      "design": "labs/07-led-marquee",
+      "errors": 0,
+      "diagnostics": 0,
+      "report": ""
+    },
+    {
+      "design": "labs/08-rgb-breathing",
+      "errors": 0,
+      "diagnostics": 1,
+      "report": "labs\\08-rgb-breathing\\rtl\\Rainbow_Breathing_LED.v:15:8: warning: implicit net 'acc_999ms' created [-Wimplicit-net]\nassign acc_999ms = timer_1ms == 10'd999;\n       ^\n"
+    },
+    {
+      "design": "labs/09-button-counter",
+      "errors": 0,
+      "diagnostics": 0,
+      "report": ""
+    },
+    {
+      "design": "projects/snake",
+      "errors": 0,
+      "diagnostics": 8,
+      "report": "projects\\snake\\rtl\\controller.v:28:9: warning: 'case' missing 'default' label [-Wcase-default]\n        case (dir)\n        ^~~~\nprojects\\snake\\rtl\\dir_decider.v:19:13: warning: 'case' missing 'default' label [-Wcase-default]\n            case(dir)\n            ^~~~\nprojects\\snake\\rtl\\dir_decider.v:48:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\nprojects\\snake\\rtl\\food.v:25:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\nprojects\\snake\\rtl\\freq_divider.v:23:20: warning: comparison of differently signed types ('integer' and 'logic[31:0]') [-Wsign-compare]\n            if(cnt == (RAN_GEN_CLK_PERIOD / 2))begin\n               ~~~ ^~  ~~~~~~~~~~~~~~~~~~~~~~\nprojects\\snake\\rtl\\freq_divider.v:31:72: warning: logical right shift of signed type 'integer' may have been intended to be an arithmetic shift [-Wsigned-logical-shift]\n                body_period <= (body_period > 6250000)? body_period - (body_period >> 10) : body_period ; \n                                                                       ^~~~~~~~~~~\nprojects\\snake\\rtl\\random_generator.v:7:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\nprojects\\snake\\rtl\\Body2display.sv:25:66: warning: arithmetic between operands of different types ('int' and 'reg[2:0]') [-Warith-op-mismatch]\n    assign col_row_display_format = {(8'b1 << row), ~(snake_map[8*row+:8])} & {8'hff,~({7'h0,((food_place[5:3] == row) && (cnt == 0))} << food_place[2:0])};  //{y, x}\n                                                                ~^~~~\n"
+    },
+    {
+      "design": "projects/vending-machine",
+      "errors": 0,
+      "diagnostics": 6,
+      "report": "projects\\vending-machine\\rtl\\debounce.v:47:10: warning: no newline at end of file [-Wnewline-eof]\nendmodule\n         ^\nprojects\\vending-machine\\rtl\\top.v:67:11: warning: no newline at end of file [-Wnewline-eof]\nendmodule \n          ^\nprojects\\vending-machine\\rtl\\vending_machine.v:57:5: warning: 'case' missing 'default' label [-Wcase-default]\n    case (state)\n    ^~~~\nprojects\\vending-machine\\rtl\\vending_machine.v:58:42: warning: comparison of differently signed types ('reg[31:0]' and 'logic signed[31:0]') [-Wsign-compare]\n        RESET:   next_state = (reset_cnt >= RESET_DURATION) ? SEL : RESET;\n                               ~~~~~~~~~ ^~ ~~~~~~~~~~~~~~\nprojects\\vending-machine\\rtl\\vending_machine.v:90:9: warning: 'case' missing 'default' label [-Wcase-default]\n        case (state)\n        ^~~~\nprojects\\vending-machine\\rtl\\vending_machine.v:143:21: warning: 'case' missing 'default' label [-Wcase-default]\n                    case (selected_drink)\n                    ^~~~\n"
+    },
+    {
+      "design": "projects/whack-a-mole",
+      "errors": 0,
+      "diagnostics": 3,
+      "report": "  in instance: mole.s0\nprojects\\whack-a-mole\\rtl\\top.v:92:5: warning: 'case' missing 'default' label [-Wcase-default]\n    case(state)\n    ^~~~\n  in instance: mole.s0\nprojects\\whack-a-mole\\rtl\\top.v:95:37: warning: comparison of differently signed types ('reg[30:0]' and 'logic signed[31:0]') [-Wsign-compare]\n        HIT:  next_state = (hit_cnt == HIT_DURATION || btn) ? WAIT : HIT;\n                            ~~~~~~~ ^~ ~~~~~~~~~~~~\n  in instance: mole.s0\nprojects\\whack-a-mole\\rtl\\top.v:106:9: warning: 'case' missing 'default' label [-Wcase-default]\n        case (state)\n        ^~~~\n"
+    }
+  ]
+}
